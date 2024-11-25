@@ -1,0 +1,54 @@
+body {
+    font-family: "Lucida Console";
+    color: lightgreen;
+    background-color: black
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border: 5px solid lightgreen;
+}
+
+h1 {
+    margin-left: 150px;
+    margin-right: 150px
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.spacing {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.text-box {
+    background-color: black;
+    color: black;
+    padding: 20px;
+    border: 5px solid lightgreen;
+    color: lightgreen;
+    text-align: center
+}
+
+.img-box {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    gap: 20px
+}
+
+.img-box img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover
+}
+
+.img-box .text {
+    font-size : 18px;
+    color: lightgreen;
+}
