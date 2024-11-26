@@ -5,7 +5,7 @@ REPOSITORY FOR PERSONAL PROJECTS THAT I HAVE BEEN WORKING ON IN MY SPARE TIME
 ______________________________________________________________________________
 
 Personal Webpage
-- Web page I created to display a visual that includes my technical skills
+- Web page I created to include my technical skills
 - Includes images, text, and hyperlinks
 
 Type Game
