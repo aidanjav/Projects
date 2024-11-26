@@ -8,6 +8,6 @@ Personal Webpage
 - Web page I created to display a visual that includes my technical skills
 - Includes images, text, and hyperlinks
 
-Type Gane
+Type Game
 - Features three difficulties that test how fast you can type a given string of characters
 - Time will be displayed once the typed string matches the provided string
